@@ -25,11 +25,11 @@ http://192.168.0.102:8080
 you will see the Adminer login screen..
 enter below details to login to MS SQL server..
     
-Adminer login:   
+> Adminer login:   
 System: MS SQL  
-Server: ms-sql-server (server.name or ip.address) 
-Username: sa (system admin) 
-Password: ronit@1992 
+Server: ms-sql-server (server.name or ip.address)  
+Username: sa (system admin)   
+Password: ronit@1992   
   
 (Note: these details should match with 
 the info in the file ‘docker-compose.yml’)
