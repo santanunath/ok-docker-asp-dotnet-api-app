@@ -64,12 +64,12 @@ Type: decimal
 Length:     
       
 Click on ‘save’ button beside the table name. 
-Now click on ‘new item’ to create a new record 
-Id: 1 
-Name: coca cola 
-Price: 20 
-Click ‘save’ 
-A new record is created  
+Now click on ‘new item’ to create a new record    
+Id: 1    
+Name: coca cola    
+Price: 20    
+Click ‘save’   
+A new record is created    
 --
 
 now run the API application using Nginx rProxy.
