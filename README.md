@@ -1,7 +1,7 @@
-Tested: ok (in RPi3b+). .
+Tested: ok (in RPi3b+)
 --
 
-this api Application name is MyApi
+this API Application name is MyApi
 
 this application was created with below command.
 
