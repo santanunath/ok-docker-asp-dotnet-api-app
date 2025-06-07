@@ -10,5 +10,4 @@ Syntax:
 
 [-n or --name]
 
-(for API application, 
-u have to use template-name webapi)
+(for API application,template-name is 'webapi')
