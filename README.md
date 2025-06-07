@@ -30,7 +30,7 @@ System: MS SQL
 Server: ms-sql-server (server.name or ip.address) 
 Username: sa (system admin) 
 Password: ronit@1992 
-    
+  
 (Note: these details should match with 
 the info in the file ‘docker-compose.yml’)
 --
@@ -38,10 +38,10 @@ After login to Adminer tool, we will create below items,
 Database: productdb 
 Table:  Products 
 Fields:  
-Id (int) 
-Name (string, varchar 50) 
-Price (decimal) 
- 
+Id (int)  
+Name (string, varchar 50)  
+Price (decimal)  
+  
 After u login using ‘adminer' tool,
 click on ‘create database’ 
 Database name: productdb
