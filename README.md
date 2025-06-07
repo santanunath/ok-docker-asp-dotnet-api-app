@@ -35,39 +35,40 @@ Password: ronit@1992
 the info in the file ‘docker-compose.yml’)
 --
 After login to Adminer tool, we will create below items,
-Database: productdb
-Table:  Products
-Fields: Id (int)
-           Name (string, varchar 50)
-           Price (decimal)
-
+Database: productdb 
+Table:  Products 
+Fields:  
+Id (int) 
+Name (string, varchar 50) 
+Price (decimal) 
+ 
 After u login using ‘adminer' tool,
 click on ‘create database’ 
 Database name: productdb
-Click on ‘save’
-Now click on ‘create table’ 
-Table name: Products 
-Enter below details..
-
-Column.name: Id
-Type: int
-Length: 
-
-Column.name: Name
-Type: varchar 
-Length: 50
-
-Column.name: Price
-Type: decimal 
-Length: 
-
+Click on ‘save’ 
+Now click on ‘create table’  
+Table name: Products  
+Enter below details.. 
+   
+Column.name: Id 
+Type: int 
+Length:  
+   
+Column.name: Name 
+Type: varchar  
+Length: 50 
+  
+Column.name: Price 
+Type: decimal  
+Length:  
+   
 Click on ‘save’ button beside the table name. 
 Now click on ‘new item’ to create a new record 
-Id: 1
-Name: coca cola
-Price: 20
-Click ‘save’
-A new record is created 
+Id: 1 
+Name: coca cola 
+Price: 20 
+Click ‘save’ 
+A new record is created  
 --
 
 now run the API application using Nginx rProxy.
