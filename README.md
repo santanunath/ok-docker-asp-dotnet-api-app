@@ -19,7 +19,7 @@ $ git clone repo-url.git
 --
 
 To run the application use
-$ sudo docker-compose up -d
+> $ sudo docker-compose up -d
 $ sudo docker ps
 
 run Adminer
