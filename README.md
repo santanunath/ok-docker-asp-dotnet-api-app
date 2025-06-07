@@ -26,9 +26,10 @@ you will see the Adminer login screen..
 enter below details to login to MS SQL server..
     
 > Adminer login:   
+   
 System: MS SQL  
-Server: ms-sql-server (server.name or ip.address)  
-Username: sa (system admin)   
+Server: ms-sql-server    
+Username: sa     
 Password: ronit@1992   
   
 (Note: these details should match with 
