@@ -1,4 +1,4 @@
-this api Application name was MyApi
+this api Application name is MyApi
 
 this application was created with below command.
 
@@ -11,4 +11,4 @@ Syntax:
 [-n or --name]
 
 (for API application,template-name is 'webapi')
-----
+--
