@@ -25,9 +25,8 @@ http://192.168.0.102:8080
 you will see the Adminer login screen..
 enter below details to login to MS SQL server..
     
-> Adminer login:   
-   
-System: MS SQL  
+Adminer login:   
+> System: MS SQL  
 Server: ms-sql-server    
 Username: sa     
 Password: ronit@1992   
