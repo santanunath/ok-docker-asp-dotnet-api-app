@@ -34,10 +34,11 @@ Password: ronit@1992
 (Note: these details should match with 
 the info in the file ‘docker-compose.yml’)
 --
-After login to Adminer tool, we will create below items,
-Database: productdb 
-Table:  Products 
-Fields:  
+After login to Adminer tool, we will create below items,  
+Database: productdb  
+Table:  Products   
+   
+Fields:   
 Id (int)  
 Name (string, varchar 50)  
 Price (decimal)  
