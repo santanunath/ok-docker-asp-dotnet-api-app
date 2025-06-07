@@ -62,7 +62,7 @@ Length: 50
 Column.name: Price     
 Type: decimal     
 Length:     
-      
+    
 Click on ‘save’ button beside the table name. 
 Now click on ‘new item’ to create a new record    
 Id: 1    
