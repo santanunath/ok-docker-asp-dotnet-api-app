@@ -13,6 +13,11 @@ Syntax:
 (for API application,template-name is 'webapi')
 --
 
+#### Clone this repo from GitHub.com
+$ git clone repo-url.git
+
+--
+
 To run the application use
 $ sudo docker-compose up -d
 $ sudo docker ps
