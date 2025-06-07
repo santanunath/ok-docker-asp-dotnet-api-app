@@ -1,1 +1,1 @@
-how to use
+this api Application name was MyApi
