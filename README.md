@@ -51,18 +51,18 @@ Now click on ‘create table’
 Table name: Products  
 Enter below details.. 
    
-Column.name: Id 
-Type: int 
-Length:  
-   
-Column.name: Name 
-Type: varchar  
-Length: 50 
-  
-Column.name: Price 
-Type: decimal  
-Length:  
-   
+Column.name: Id   
+Type: int   
+Length:    
+    
+Column.name: Name    
+Type: varchar    
+Length: 50    
+    
+Column.name: Price     
+Type: decimal     
+Length:     
+      
 Click on ‘save’ button beside the table name. 
 Now click on ‘new item’ to create a new record 
 Id: 1 
