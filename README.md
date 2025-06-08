@@ -125,32 +125,32 @@ replace ‘localhost’ with (host-computer Raspberrypi-ip) ‘192.168.0.102’
        
 #### List of API endpoints:
     
-(Get all products)
+(Get all products)    
 GET http://localhost/api/products
-
-(Get a product by ID)
+     
+(Get a product by ID)    
 GET http://localhost/api/products/1
-
-(Create a new product)
-POST http://localhost/api/products
- with JSON body 
-  { 
-       "name": "coca cola", 
-       "price": "20" 
-   }
-“id” is automatically generated.
-     
-(Update an existing product)
-PUT http://localhost/api/products/1
- with JSON body 
-  { 
-        "id": 1, 
-        "name": "pepsi cola", 
-        "price": "25" 
-  }
-     
-(Delete a product)
-DELETE http://localhost/api/products/1
+      
+(Create a new product)     
+POST http://localhost/api/products    
+ with JSON body    
+  {    
+       "name": "coca cola",    
+       "price": "20"    
+   }    
+“id” is automatically generated.    
+      
+(Update an existing product)    
+PUT http://localhost/api/products/1    
+ with JSON body     
+  {     
+        "id": 1,     
+        "name": "pepsi cola",     
+        "price": "25"    
+  }     
+       
+(Delete a product)    
+DELETE http://localhost/api/products/1     
      
     
 ----
