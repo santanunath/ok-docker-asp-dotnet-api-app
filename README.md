@@ -135,8 +135,8 @@ GET http://localhost/api/products/1
 POST http://localhost/api/products    
  with JSON body    
   {    
-       "name": "coca cola",    
-       "price": "20"    
+           "name": "coca cola",    
+           "price": "20"    
    }    
 “id” is automatically generated.    
       
@@ -144,9 +144,9 @@ POST http://localhost/api/products
 PUT http://localhost/api/products/1    
  with JSON body     
   {     
-        "id": 1,     
-        "name": "pepsi cola",     
-        "price": "25"    
+           "id": 1,     
+           "name": "pepsi cola",     
+           "price": "25"    
   }     
        
 (Delete a product)    
