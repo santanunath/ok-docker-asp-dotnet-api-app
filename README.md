@@ -15,6 +15,21 @@ Syntax:
 
 (for API application,template-name is 'webapi')
 --
+API directory structure(auto generated)    
+    
+appsettings.Development.json   
+appsettings.json   
+MyApi.csproj   
+MyApi.http   
+obj(directory)   
+Program.cs 
+properties(directory)/launchSettings.json   
+     
+Data(directory) user created    
+Controllers(directory) user created    
+Models(directory) user created   
+    
+--
 
 #### Clone this repo from GitHub.com
 > $ git clone repo-url.git
