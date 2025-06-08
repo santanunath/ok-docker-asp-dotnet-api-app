@@ -95,6 +95,7 @@ Click ‘save’
 A new record is created    
 ----
 
+----
 now run the API application using Nginx rProxy.
 
 > Open browser and enter
