@@ -23,9 +23,9 @@ MyApi.csproj
 MyApi.http   
 obj (directory)   
 Program.cs 
-properties (directory)/launchSettings.json   
+properties(directory)/launchSettings.json   
      
-Data (directory) user created    
+Data (dir) user created    
 Controllers (directory) user created    
 Models (directory) user created   
     
