@@ -109,11 +109,7 @@ run the API application without using Nginx rProxy.
 http://192.168.0.102:8090/api/products   
      
 ----
-#### How to remove the application.   
-> $ sudo docker-compose down    
-#### How to delete the application directory    
-> $ sudo rm -r directoryname    
-    
+
 ----
 
 #### How to Test the API
@@ -156,5 +152,12 @@ PUT http://localhost/api/products/1
 (Delete a product)
 DELETE http://localhost/api/products/1
      
+    
+----
+#### How to remove the application.   
+> $ sudo docker-compose down    
+#### How to delete the application directory    
+> $ sudo rm -r directoryname    
+      
     
 ----
