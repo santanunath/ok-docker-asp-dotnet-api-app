@@ -93,7 +93,7 @@ Name: coca cola
 Price: 20    
 Click ‘save’   
 A new record is created    
---
+----
 
 now run the API application using Nginx rProxy.
 
@@ -102,4 +102,9 @@ now run the API application using Nginx rProxy.
 (or)
 run the API application without using Nginx rProxy.
 > http://192.168.0.102:8090/api/products 
---
+----
+To remove the application.
+> $ sudo docker-compose down 
+To delete the application directory 
+> $ sudo rm -r directoryname 
+----
