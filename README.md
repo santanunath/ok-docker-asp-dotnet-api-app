@@ -96,7 +96,7 @@ A new record is created
 ----
 
 ----
-now run the API application using Nginx rProxy.
+now run the API application using Nginx Reverse Proxy Server.
 
 > Open browser and enter
 http://192.168.0.102/api/products   
@@ -104,8 +104,8 @@ http://192.168.0.102/api/products
      
 (or)   
      
-run the API application without using Nginx rProxy.    
-> Open browser and enter.    
+run the API application without using Nginx Reverse Proxy Server.     
+> Open browser and enter    
 http://192.168.0.102:8090/api/products   
      
 
