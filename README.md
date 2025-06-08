@@ -100,13 +100,15 @@ now run the API application using Nginx rProxy.
 > Open browser and enter
 http://192.168.0.102/api/products   
      
+     
 (or)   
 run the API application without using Nginx rProxy.    
 http://192.168.0.102:8090/api/products   
+     
 ----
-#### To remove the application.   
+#### How to remove the application.   
 > $ sudo docker-compose down    
-#### To delete the application directory    
+#### How to delete the application directory    
 > $ sudo rm -r directoryname    
     
 ----
