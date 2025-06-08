@@ -143,11 +143,11 @@ POST http://localhost/api/products
 (Update an existing product)    
 PUT http://localhost/api/products/1    
  with JSON body     
-  {     
-           "id": 1,     
-           "name": "pepsi cola",     
-           "price": "25"    
-  }     
+    {     
+       "id": 1,     
+       "name": "pepsi cola",     
+       "price": "25"    
+    }     
        
 (Delete a product)    
 DELETE http://localhost/api/products/1     
