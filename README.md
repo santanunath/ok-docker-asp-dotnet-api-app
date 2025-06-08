@@ -21,13 +21,13 @@ appsettings.Development.json
 appsettings.json   
 MyApi.csproj   
 MyApi.http   
-obj (directory)   
+obj (dir)   
 Program.cs 
-properties(directory)/launchSettings.json   
+properties (dir)/launchSettings.json   
      
 Data (dir) user created    
-Controllers (directory) user created    
-Models (directory) user created   
+Controllers (dir) user created    
+Models (dir) user created   
     
 --
 
