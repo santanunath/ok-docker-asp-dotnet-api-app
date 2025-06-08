@@ -118,7 +118,7 @@ You can now test the API with the endpoints listed below:
 (Note: For testing, U can use API testing tool ‘postman’)    
        
       
-replace my host-computer (Raspberrypi) ip.address ‘192.168.0.102’ with your host-computer ip.address
+Replace my host-computer ip.address ‘192.168.0.102’ with your host-computer ip.address
        
        
 #### List of API endpoints:
@@ -133,8 +133,8 @@ GET http://192.168.0.102/api/products/1
 POST http://192.168.0.102/api/products    
  with JSON body    
   {    
-           "name": "coca cola",    
-           "price": "20"    
+       "name": "coca cola",    
+       "price": "20"    
    }    
 “id” is automatically generated.    
       
