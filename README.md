@@ -23,7 +23,7 @@ MyApi.csproj
 MyApi.http   
 obj (dir)   
 Program.cs    
-properties (dir)/launchSettings.json   
+properties (dir) /launchSettings.json   
      
 Data (dir) user created    
 Controllers (dir) user created    
