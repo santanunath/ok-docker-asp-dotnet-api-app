@@ -114,25 +114,23 @@ http://192.168.0.102:8090/api/products
 
 #### How to Test the API
      
-You can now test the API with the endpoints listed below:
-(Note: For testing, U can use API testing tool ‘postman’)
+You can now test the API with the endpoints listed below:    
+(Note: For testing, U can use API testing tool ‘postman’)    
        
       
-If you are accessing the API from  another device 
-(eg. Redmi Tab or Apple MacBook),
-replace ‘localhost’ with (host-computer Raspberrypi-ip) ‘192.168.0.102’
+replace my host-computer (Raspberrypi) ip.address ‘192.168.0.102’ with your host-computer ip.address
        
        
 #### List of API endpoints:
     
 (Get all products)    
-GET http://localhost/api/products
+GET http://192.168.0.102/api/products
      
 (Get a product by ID)    
-GET http://localhost/api/products/1
+GET http://192.168.0.102/api/products/1
       
 (Create a new product)     
-POST http://localhost/api/products    
+POST http://192.168.0.102/api/products    
  with JSON body    
   {    
            "name": "coca cola",    
@@ -141,7 +139,7 @@ POST http://localhost/api/products
 “id” is automatically generated.    
       
 (Update an existing product)    
-PUT http://localhost/api/products/1    
+PUT http://192.168.0.102/api/products/1    
  with JSON body     
     {     
        "id": 1,     
@@ -150,7 +148,7 @@ PUT http://localhost/api/products/1
     }     
        
 (Delete a product)    
-DELETE http://localhost/api/products/1     
+DELETE http://192.168.0.102/api/products/1     
      
     
 ----
