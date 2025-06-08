@@ -108,7 +108,7 @@ run the API application without using Nginx rProxy.
 > Open browser and enter.    
 http://192.168.0.102:8090/api/products   
      
-----
+
 
 ----
 
